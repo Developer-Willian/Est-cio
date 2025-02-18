@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # portifolio
 # portifolio
 =======
